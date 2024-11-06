@@ -71,4 +71,4 @@ Different from dipoid assemblies, the species abundances in metagenomics sequenc
 `stLFR-sim` generates one folder for each library named after lib_X (X is the name of configuration file) in the same path of config files. Two gzipped fastq files are generated and started by X_S1_L001_R1_001.fastq.gz and X_S1_L001_R2_001.fastq.gz to represent forward and reverse reads. The simulated data have been tested and accepted by 10X official pipelines [Long Ranger](https://support.10xgenomics.com/genome-exome/software/pipelines/latest/what-is-long-ranger) and [Supernova](https://support.10xgenomics.com/de-novo-assembly/software/overview/welcome).
 
 
-Contact: zhanglu2@stanford.edu
+Contact: can.luo@vanderbilt.edu
